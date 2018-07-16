@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 K 
 kkkkkkk
+=======
+K
+>>>>>>> parent of 33f7f92... Da thay doi
 =======
 K
 >>>>>>> parent of 33f7f92... Da thay doi
